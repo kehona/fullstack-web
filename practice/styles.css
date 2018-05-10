@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+#box {
+    width: 400px;
+    height: 400px;
+    background-color: grey;
+}
+
+#content {
+    width: 80%;
+    height: 80%;
+    background-color: green;
+    margin: 0 auto;
+}
